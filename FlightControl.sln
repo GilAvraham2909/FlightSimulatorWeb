@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlightControlWeb", "FlightControlWeb\FlightControlWeb.csproj", "{CF8605D4-3675-477B-94B1-BC86063C4DE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject1", "XUnitTestProject1\XUnitTestProject1.csproj", "{9EECEDF1-3E30-4933-A4FE-356897F8C970}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF8605D4-3675-477B-94B1-BC86063C4DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF8605D4-3675-477B-94B1-BC86063C4DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF8605D4-3675-477B-94B1-BC86063C4DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF8605D4-3675-477B-94B1-BC86063C4DE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EECEDF1-3E30-4933-A4FE-356897F8C970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EECEDF1-3E30-4933-A4FE-356897F8C970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EECEDF1-3E30-4933-A4FE-356897F8C970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EECEDF1-3E30-4933-A4FE-356897F8C970}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B07D6D3A-2F92-446A-8AB3-000205078ED1}
+	EndGlobalSection
+EndGlobal
